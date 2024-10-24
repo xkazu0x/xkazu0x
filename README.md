@@ -1,6 +1,5 @@
 # Ruan Carlos / xkazu0x
 
-## Links
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xkazu0x.github.io/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkazu0x&layout=compact&theme=noctis_minimus)
